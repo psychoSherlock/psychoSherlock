@@ -22,7 +22,7 @@
 * Windows and Linux Kernal Testing
 
 
-### What do you do now? 🤨
+### So what's next? 🤨
 #### Learning, of course. I never stop learning and I never quit. I will keep on going. 😌
 #### Testing my skills playing CTF's, trying to make money from bugBounty, waiting for the pandemic to over 😩.
 
