@@ -4,7 +4,7 @@
 
 #### I am self learner and learned everything without spending a penny. I know that sounds weird 😅 but I believe that if you really wanted something, theres nothing to stop you.
 ### What do you do?
-#### Anything! 🤪 I love to challange myself and create the impossible. Since my childhood I believed that `If You Hit A Wall, You Push Through It!`. And thats how I learnt everything I currently know and how I would learn something.
+#### Anything! 🤪 I love to challange myself and create the impossible. Since my childhood I believed that _If You Hit A Wall, You Push Through It!_. And thats how I learnt everything I currently know and how I would learn something.
 
 ### Well what do you know?
 #### Almost anything related to computers. By the age of 14, I learnt:
