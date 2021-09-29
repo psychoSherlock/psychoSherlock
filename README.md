@@ -28,44 +28,32 @@ function whoAmI() {
 #### Anything! 🤪 I love to challange myself and create the impossible. Since my childhood I believed that _If You Hit A Wall, You Push Through It!_. And thats how I learnt everything I currently know and how I would learn something.
 
 ## My Projects
-
 <div align="center">
+
   <a href="https://github.com/psychoSherlock/coCheck">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=psychoSherlock&repo=coCheck&theme=tokyonight"
-    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=psychoSherlock&repo=coCheck&theme=tokyonight"/>
   </a>
   
   <a href="https://github.com/psychoSherlock/ip-who">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=psychoSherlock&repo=ip-who&theme=tokyonight"
-    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=psychoSherlock&repo=ip-who&theme=tokyonight"/>
   </a>
   
     <a href="https://github.com/psychoSherlock/textRactor">
-      <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=psychoSherlock&repo=textRactor&theme=tokyonight"
-      />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=psychoSherlock&repo=textRactor&theme=tokyonight"/>
     </a>
 
   <a href="https://github.com/psychoSherlock/whatsAuto">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=psychoSherlock&repo=whatsAuto&theme=tokyonight"
-    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=psychoSherlock&repo=whatsAuto&theme=tokyonight"/>
   </a>
 
 
   <a href="https://github.com/psychoSherlock/react-textractor">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=psychoSherlock&repo=react-textractor&theme=tokyonight"
-    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=psychoSherlock&repo=react-textractor&theme=tokyonight"/>
   </a>
 
 
   <a href="https://github.com/psychoSherlock/HSR">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=psychoSherlock&repo=HSR&theme=tokyonight"
-    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=psychoSherlock&repo=HSR&theme=tokyonight"/>
   </a>
 
 </div>
