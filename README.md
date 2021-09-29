@@ -69,9 +69,8 @@ function whoAmI() {
 
 
 ### Well what do you know?
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psychoSherlock)](https://github.com/psychoSherlock)
-
 <div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psychoSherlock)](https://github.com/psychoSherlock)
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
@@ -115,6 +114,22 @@ function whoAmI() {
 ### How to contact you?
 #### Use my private email if you have to and I would be glad to chat with you😄. [pschosherlock@gmail.com](mailto:pschosherlock@gmail.com)
 #### OR you can find me on social media
-> [Instagram](https://www.instagram.com/psychoSherlock)
+<div align="center">
+    <a href="mailto:pschosherlock@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
 
-> [Twitter](https://www.twitter.com/psycho_sherlock)
+    <a href="https://www.instagram.com/psychoSherlock">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    <a href="https://www.github.com/psychoSherlock">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://stackoverflow.com/users/14303620/psychosherlock">
+        <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+    </a>
+
+    <a href="https://twitter.com/psycho_sherlock">
+        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+    </a>
+</div>
