@@ -1,10 +1,73 @@
 # Hello stranger 👋 Welcome to my world. Feel free to look around my projects and works 🤗
 ### Who are you? 🧐
+
 #### My name is Athul Prakash. I am 16 year old cyber security engineer at hackerone 👨‍💻. I currently work for many private programs as well as public ones. I've been in the field of computer science for almost 6 years (at the time of writing) and had really gone through a lot. My experience made me who I am right now.
 
 #### I am self learner and learned everything without spending a penny. I know that sounds weird 😅 but I believe that if you really wanted something, theres nothing to stop you.
+
+```python
+function whoAmI() {
+    const details = {
+      Full_name: "Athul Prakash",
+      Age: 16,
+      Email: "pschosherlock@gmail.com",
+      Location: "Kannur, Kerala, India",
+      Working: false,
+      Available_for_hire: true,
+      Status: "Focusing on UI development",
+      Currently: "Student",
+      Joined_github: 2021,
+      Favorite_language: ["Python", "Javascript"],
+    };
+  
+    return details;
+  }
+```
+
 ### What do you do?
 #### Anything! 🤪 I love to challange myself and create the impossible. Since my childhood I believed that _If You Hit A Wall, You Push Through It!_. And thats how I learnt everything I currently know and how I would learn something.
+
+## My Projects
+
+<div align="center">
+  <a href="https://github.com/psychoSherlock/coCheck">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=psychoSherlock&repo=coCheck&theme=tokyonight"
+    />
+  </a>
+  <a href="https://github.com/psychoSherlock/whatsAuto">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=psychoSherlock&repo=whatsAuto&theme=tokyonight"
+    />
+  </a>
+
+  <a href="https://github.com/psychoSherlock/ip-who">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=psychoSherlock&repo=ip-who&theme=tokyonight"
+    />
+  </a>
+
+  <a href="https://github.com/psychoSherlock/textRactor">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=psychoSherlock&repo=textRactor&theme=tokyonight"
+    />
+  </a>
+
+  <a href="https://github.com/psychoSherlock/react-textractor">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=psychoSherlock&repo=react-textractor&theme=tokyonight"
+    />
+  </a>
+
+
+  <a href="https://github.com/psychoSherlock/HSR">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=psychoSherlock&repo=HSRractor&theme=tokyonight"
+    />
+  </a>
+
+</div>
+
 
 ### Well what do you know?
 
@@ -31,7 +94,7 @@
 ## Github Stats
 <div align="center">
     <a href="https://github.com/psychoSherlock">
-        <img src="https://github-readme-stats.vercel.app/api?username=psychoSherlock&show_icons=true&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api?username=psychoSherlock&show_icons=true&theme=tokyonight" />
     </a>
 </div>
 
@@ -43,12 +106,10 @@
 </div>
 
 ### So what's next? 🤨
-<hr/>
 #### Learning, of course. I never stop learning and I never quit. I will keep on going. 😌
 #### Testing my skills playing CTF's, trying to make money from bugBounty, waiting for the pandemic to over 😩.
 
 ### What are you interested in?
-<br/>
 #### Anything related to security and networking. I also like back end development but NO FRONT END (Cause I am really bad at CSS making designs 😬)
 
 ### How to contact you?
