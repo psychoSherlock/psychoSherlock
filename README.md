@@ -43,10 +43,12 @@
 </div>
 
 ### So what's next? 🤨
+<hr/>
 #### Learning, of course. I never stop learning and I never quit. I will keep on going. 😌
 #### Testing my skills playing CTF's, trying to make money from bugBounty, waiting for the pandemic to over 😩.
 
 ### What are you interested in?
+<br/>
 #### Anything related to security and networking. I also like back end development but NO FRONT END (Cause I am really bad at CSS making designs 😬)
 
 ### How to contact you?
