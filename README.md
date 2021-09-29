@@ -69,6 +69,7 @@ function whoAmI() {
 
 
 ### Well what do you know?
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psychoSherlock)](https://github.com/psychoSherlock)
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
