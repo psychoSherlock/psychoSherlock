@@ -28,6 +28,19 @@
   
 </div>
 
+## Github Stats
+<div align="center">
+    <a href="https://github.com/psychoSherlock">
+        <img src="https://github-readme-stats.vercel.app/api?username=psychoSherlock&show_icons=true&theme=radical" />
+    </a>
+</div>
+
+## Contribution Graph
+<div align="center">
+    <a href="https://github.com/psychoSherlock">
+        <img src="https://activity-graph.herokuapp.com/graph?username=psychoSherlock" />
+    </a>
+</div>
 
 ### So what's next? 🤨
 #### Learning, of course. I never stop learning and I never quit. I will keep on going. 😌
