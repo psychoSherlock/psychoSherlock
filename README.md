@@ -43,7 +43,7 @@ function whoAmI() {
     
   <a href="https://github.com/psychoSherlock/HSR">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=psychoSherlock&repo=vellavumVelichavum&theme=gradient"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=psychoSherlock&repo=vellavumVelichavum&theme=synthwave"
     />
   </a>
 
