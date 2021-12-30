@@ -40,6 +40,12 @@ function whoAmI() {
       src="https://github-readme-stats.vercel.app/api/pin/?username=psychoSherlock&repo=ip-who&theme=tokyonight"
     />
   </a>
+    
+  <a href="https://github.com/psychoSherlock/HSR">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=psychoSherlock&repo=vellavumVelichavum&theme=gradient"
+    />
+  </a>
 
   <a href="https://github.com/psychoSherlock/whatsAuto">
     <img
