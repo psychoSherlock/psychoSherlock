@@ -9,7 +9,7 @@
 function whoAmI() {
     const details = {
       Full_name: "Athul Prakash",
-      Age: 16,
+      Age: 18,
       Email: "pschosherlock@gmail.com",
       Location: "Kannur, Kerala, India",
       Working: false,
