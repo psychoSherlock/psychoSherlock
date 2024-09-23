@@ -1,7 +1,7 @@
 # Hello stranger 👋 Welcome to my world. Feel free to look around my projects and works 🤗
 ### Who are you? 🧐
 
-#### My name is Athul Prakash. I am 16 year old cyber security engineer at hackerone 👨‍💻. I currently work for many private programs as well as public ones. I've been in the field of computer science for almost 6 years (at the time of writing) and had really gone through a lot. My experience made me who I am right now.
+#### My name is Athul Prakash. I am 18 year old cyber security engineer at hackerone 👨‍💻. I currently work for many private programs as well as public ones. I've been in the field of computer science for almost 6 years (at the time of writing) and had really gone through a lot. My experience made me who I am right now.
 
 #### I am self learner and learned everything without spending a penny. I know that sounds weird 😅 but I believe that if you really wanted something, theres nothing to stop you.
 
