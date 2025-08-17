@@ -1,83 +1,27 @@
-# Hello stranger 👋 Welcome to my world. Feel free to look around my projects and works 🤗
-### Who are you? 🧐
+_The Harder I Work, The Luckier I get!_
 
-#### My name is Athul Prakash. I am 18 year old cyber security engineer at hackerone 👨‍💻. I currently work for many private programs as well as public ones. I've been in the field of computer science for almost 6 years (at the time of writing) and had really gone through a lot. My experience made me who I am right now.
+## Hey, its me! PsychoSherlock
 
-#### I am self learner and learned everything without spending a penny. I know that sounds weird 😅 but I believe that if you really wanted something, theres nothing to stop you.
-
-```python
+```javascript
 function whoAmI() {
     const details = {
       Full_name: "Athul Prakash",
-      Age: 18,
+      Age: 19,
       Email: "pschosherlock@gmail.com",
       Location: "Kannur, Kerala, India",
       Working: false,
       Available_for_hire: true,
       Status: "Focusing on UI development",
       Currently: "Student",
-      Joined_github: 2021,
-      Favorite_language: ["Python", "Javascript"],
+      Experience: "6++ Years",
+      Favorite_language: ["Anything Tech"],
     };
   
     return details;
   }
 ```
 
-### What do you do?
-#### Anything! 🤪 I love to challange myself and create the impossible. Since my childhood I believed that _If You Hit A Wall, You Push Through It!_. And thats how I learnt everything I currently know and how I would learn something.
-
-## My Projects
-<div align="center">
-  <a href="https://github.com/psychoSherlock/coCheck">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=psychoSherlock&repo=coCheck&theme=tokyonight"
-    />
-  </a>
-
-  <a href="https://github.com/psychoSherlock/ip-who">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=psychoSherlock&repo=ip-who&theme=tokyonight"
-    />
-  </a>
-    
-  <a href="https://github.com/psychoSherlock/HSR">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=psychoSherlock&repo=vellavumVelichavum&theme=tokyonight"
-    />
-  </a>
-
-  <a href="https://github.com/psychoSherlock/whatsAuto">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=psychoSherlock&repo=whatsAuto&theme=tokyonight"
-    />
-  </a>
-
-  <a href="https://github.com/psychoSherlock/react-textractor">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=psychoSherlock&repo=react-textractor&theme=tokyonight"
-    />
-  </a>
-
-  <a href="https://github.com/psychoSherlock/HSR">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=psychoSherlock&repo=HSR&theme=tokyonight"
-    />
-  </a>
-
-
-  <a href="https://github.com/psychoSherlock/textRactor">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=psychoSherlock&repo=textRactor&theme=tokyonight"
-    />
-  </a>
-</div>
-
-
 ### Well what do you know?
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psychoSherlock"/>
-</a>
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -96,7 +40,6 @@ function whoAmI() {
   <img src="https://img.shields.io/badge/Linux_Security-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  
 </div>
 
 ## Github Stats
@@ -113,13 +56,6 @@ function whoAmI() {
     </a>
 </div>
 
-### So what's next? 🤨
-#### Learning, of course. I never stop learning and I never quit. I will keep on going. 😌
-#### Testing my skills playing CTF's, trying to make money from bugBounty, waiting for the pandemic to over 😩.
-
-### What are you interested in?
-#### Anything related to security and networking. I also like back end development but NO FRONT END (Cause I am really bad at CSS making designs 😬)
-
 ### How to contact you?
 #### Use my private email if you have to and I would be glad to chat with you😄. [pschosherlock@gmail.com](mailto:pschosherlock@gmail.com)
 #### OR you can find me on social media
@@ -135,7 +71,7 @@ function whoAmI() {
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <a href="https://stackoverflow.com/users/14303620/psychosherlock"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-    <a href="https://twitter.com/psycho_sherlock">
+    <a href="https://x.com/psychoSherlock">
         <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
     </a>
 </div>
