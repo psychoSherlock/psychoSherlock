@@ -9,10 +9,10 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> About Me
 
 <div align="center">
+  <img width="3680" height="2360" alt="wezterm" src="https://github.com/user-attachments/assets/e90a4267-4347-4ddf-9417-9941de2d241c" />
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Penetration+Tester;Bug+Hunter;CTF+Developer;Security+Researcher&center=true&width=380&height=45&color=7f9cf5">
   </p>
-  <img width="3680" height="2360" alt="wezterm" src="https://github.com/user-attachments/assets/e90a4267-4347-4ddf-9417-9941de2d241c" />
 </div>
 
 <div align="center">
