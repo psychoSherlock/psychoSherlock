@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=500&lines=_The+Harder+I+Work%2C+The+Luckier+I+get!_;No+Dream+is+too+small+and+no+dreamer+too+big;You+hit+a+wall%2C+you+push+through+it.;To+a+great+mind%2C+nothing+is+little)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=500&lines=The+Harder+I+Work%2C+The+Luckier+I+get!;___No+Dream+is+too+small+and+no+dreamer+too+big;You+hit+a+wall%2C+you+push+through+it.;To+a+great+mind%2C+nothing+is+little)](https://git.io/typing-svg)
   
 </div>
 
@@ -16,27 +16,8 @@
   </p>
 </div>
 
-```bash
-$ whoami
-> psychoSherlock
+<img width="3680" height="2360" alt="wezterm" src="https://github.com/user-attachments/assets/e90a4267-4347-4ddf-9417-9941de2d241c" />
 
-$ cat psychosherlock.json
-{
-  "full_name": "Athul Prakash",
-  "age": 19,
-  "email": "pschosherlock@gmail.com",
-  "location": "Kannur, Kerala, India",
-  "working": false,
-  "available_for_hire": true,
-  "status": "Focusing on bug bounty",
-  "currently": "Student",
-  "experience": "6++ Years",
-  "favorite_language": ["Anything Tech"]
-}
-
-$ echo $PATH
-/security/vapt:/ctf/development:/bugbounty/hunting
-```
 
 <div align="center">
   <p>I'm Athul Prakash, a passionate cybersecurity aspirant from Kerala, India with 6+ years of experience. My journey includes VAPT, developing CTF labs and environments, security analysis, and vulnerability research. Currently focusing on bug bounty hunting and available for new opportunities.</p>
