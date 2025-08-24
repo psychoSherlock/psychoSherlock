@@ -9,15 +9,11 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> About Me
 
 <div align="center">
-  <h3>🔒 Cyber Security Aspirant | Security Analyst | Researcher</h3>
-  
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Penetration+Tester;Bug+Hunter;CTF+Developer;Security+Researcher&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Penetration+Tester;Bug+Hunter;CTF+Developer;Security+Researcher&center=true&width=380&height=45&color=7f9cf5">
   </p>
+  <img width="3680" height="2360" alt="wezterm" src="https://github.com/user-attachments/assets/e90a4267-4347-4ddf-9417-9941de2d241c" />
 </div>
-
-<img width="3680" height="2360" alt="wezterm" src="https://github.com/user-attachments/assets/e90a4267-4347-4ddf-9417-9941de2d241c" />
-
 
 <div align="center">
   <p>I'm Athul Prakash, a passionate cybersecurity aspirant from Kerala, India with 6+ years of experience. My journey includes VAPT, developing CTF labs and environments, security analysis, and vulnerability research. Currently focusing on bug bounty hunting and available for new opportunities.</p>
@@ -29,10 +25,27 @@
   </p>
 </div>
 
-## 🛠️ Tech Stack
+## 🔐 Expertise
 
 <div align="center">
-  <h3>Main Technologies</h3>
+  <table>
+    <tr>
+      <td><b>🕵️ Penetration Testing</b></td>
+      <td><b>🛡️ Network Security</b></td>
+      <td><b>🔍 Vulnerability Research</b></td>
+    </tr>
+    <tr>
+      <td><b>🔒 Web Application Security</b></td>
+      <td><b>📱 Android Security</b></td>
+      <td><b>☁️ Cloud Security</b></td>
+    </tr>
+  </table>
+</div>
+
+## 🛠️ Stuff I explore
+
+<div align="center">
+  <h3>Techs</h3>
   
   <a href="https://github.com/tandpfun/skill-icons">
     <img src="https://skillicons.dev/icons?i=python,flask,react,nextjs,nodejs,mysql,html,css,js,linux,aws,bash,androidstudio&theme=dark&perline=7" />
@@ -63,23 +76,6 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</div>
-
-## 🔐 Security Focus Areas
-
-<div align="center">
-  <table>
-    <tr>
-      <td><b>🕵️ Penetration Testing</b></td>
-      <td><b>🛡️ Network Security</b></td>
-      <td><b>🔍 Vulnerability Research</b></td>
-    </tr>
-    <tr>
-      <td><b>🔒 Web Application Security</b></td>
-      <td><b>📱 Android Security</b></td>
-      <td><b>☁️ Cloud Security</b></td>
-    </tr>
-  </table>
 </div>
 
 ## 📊 GitHub Stats
