@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, it's me! PsychoSherlock</h1>
+<h1 align="center">👋 Hey, it's me! psychoSherlock</h1>
 
 <div align="center">
   
@@ -14,29 +14,31 @@
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Penetration+Tester;Bug+Hunter;CTF+Developer;Security+Researcher&center=true&width=380&height=45">
   </p>
-  
-  ```bash
-  $ whoami
-  > PsychoSherlock
-  
-  $ cat psychosherlock.json
-  {
-    "full_name": "Athul Prakash",
-    "age": 19,
-    "email": "pschosherlock@gmail.com",
-    "location": "Kannur, Kerala, India",
-    "working": false,
-    "available_for_hire": true,
-    "status": "Focusing on bug bounty",
-    "currently": "Student",
-    "experience": "6++ Years",
-    "favorite_language": ["Anything Tech"]
-  }
-  
-  $ echo $PATH
-  /security/vapt:/ctf/development:/bugbounty/hunting
-  ```
-  
+</div>
+
+```bash
+$ whoami
+> psychoSherlock
+
+$ cat psychosherlock.json
+{
+  "full_name": "Athul Prakash",
+  "age": 19,
+  "email": "pschosherlock@gmail.com",
+  "location": "Kannur, Kerala, India",
+  "working": false,
+  "available_for_hire": true,
+  "status": "Focusing on bug bounty",
+  "currently": "Student",
+  "experience": "6++ Years",
+  "favorite_language": ["Anything Tech"]
+}
+
+$ echo $PATH
+/security/vapt:/ctf/development:/bugbounty/hunting
+```
+
+<div align="center">
   <p>I'm Athul Prakash, a passionate cybersecurity aspirant from Kerala, India with 6+ years of experience. My journey includes VAPT, developing CTF labs and environments, security analysis, and vulnerability research. Currently focusing on bug bounty hunting and available for new opportunities.</p>
 
   <p>
@@ -49,6 +51,14 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
+  <h3>Main Technologies</h3>
+  
+  <a href="https://github.com/tandpfun/skill-icons">
+    <img src="https://skillicons.dev/icons?i=python,flask,react,nextjs,nodejs,mysql,html,css,js,linux,aws,bash,androidstudio&theme=dark&perline=7" />
+  </a>
+  
+  <h3>Tools & Platforms</h3>
+  
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
