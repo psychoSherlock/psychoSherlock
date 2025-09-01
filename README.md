@@ -88,6 +88,8 @@
 
 ## 🔥 Contribution Graph
 
+#### _The Best Way To Predit The Future Is To Create It_
+
 <div align="center">
   <a href="https://github.com/psychoSherlock">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=psychoSherlock&theme=tokyo-night" />
