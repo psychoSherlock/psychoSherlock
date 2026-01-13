@@ -79,13 +79,6 @@
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psychoSherlock&layout=compact&langs_count=8&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=psychoSherlock&theme=tokyonight" alt="psychoSherlock" />
-</div>
-
 ## 🔥 Contribution Graph
 
 #### _The Best Way To Predit The Future Is To Create It_
